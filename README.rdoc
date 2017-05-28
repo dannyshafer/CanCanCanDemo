@@ -1,6 +1,6 @@
 == README
 
-A vanilla Rails app that already has Devise users in it so you don't have to go through the whole configuration every time.
+A vanilla Rails app that already has Devise users in it so you don't have to go through the whole configuration every time. It also has the CanCanCan gem installed and added onto the Post resource for an authorization demonstration.
 
 Also, configured and ready for Heroku. Good day!
 
